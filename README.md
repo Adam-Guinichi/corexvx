@@ -16,12 +16,6 @@ I'm a Business Computing student interested in media, design, and technology.
 
 ---
 
-## 📁 Projects
-
-ye nothing i just made a few demo games with unity and some videos that got lost
-
----
-
 ## 🌐 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/adam-guinichi-218038285/)
