@@ -20,4 +20,4 @@ I'm a Business Computing student interested in media, design, and technology.
 
 - [LinkedIn](https://www.linkedin.com/in/adam-guinichi-218038285/)
 - Email:adamgnichi@gmail.com
-- [My Portfolio](https://corexvx.github.io/portfolio/)
+- [My Portfolio](https://adam-guinichi.github.io/portfolio/)
